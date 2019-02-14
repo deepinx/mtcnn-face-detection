@@ -1,4 +1,4 @@
-# MTCNN_face_detection_and_alignment
+# MTCNN face detection and alignment
 
 ## About
 
