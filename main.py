@@ -8,7 +8,7 @@ import time
 detector = MtcnnDetector(model_folder='model', ctx=mx.cpu(), num_worker = 4 , accurate_landmark = True)
 
 
-img = cv2.imread('test2.jpg')
+img = cv2.imread('./sample-images/test2.jpg')
 
 # run detector
 results = detector.detect_face(img)
