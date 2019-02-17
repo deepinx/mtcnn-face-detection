@@ -24,7 +24,7 @@ see `mtcnn_detector.py` for the details about the parameters. this function use 
 
 ## Results
 
-![Detetion Results](https://raw.githubusercontent.com/deepinx/MTCNN_face_detection/master/detection_result.png)
+![Detetion Results](https://raw.githubusercontent.com/deepinx/mtcnn-face-detection/master/sample-images/detection_result.png)
 
 
 
