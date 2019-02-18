@@ -2,9 +2,7 @@
 
 ## Introduction
 
-  This is a mxnet implementation of [Zhang](https://kpzhang93.github.io/)'s work **<Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Neural Networks>**. it's fast and accurate,  see [link](https://github.com/kpzhang93/MTCNN_face_detection_alignment). 
-
-  The code is adapted based on an intial fork from the [mxnet_mtcnn_face_detection](https://github.com/YYuanAnyVision/mxnet_mtcnn_face_detection) repository, it should have **almost** the same output with the original work.  
+  This is a mxnet implementation of [Zhang](https://kpzhang93.github.io/)'s work: Joint Face Detection and Alignment using Multi-task Cascaded Convolutional Neural Networks. It's fast and accurate,  see [link](https://github.com/kpzhang93/MTCNN_face_detection_alignment). This implementation of MTCNN should have **almost** the same output with the original work.  
 
 
 ## Environment
@@ -46,3 +44,7 @@ MIT LICENSE
   year={2016},
 }
 ```
+
+## Acknowledgment
+
+The code is adapted based on an intial fork from the [mxnet_mtcnn_face_detection](https://github.com/YYuanAnyVision/mxnet_mtcnn_face_detection) repository.
